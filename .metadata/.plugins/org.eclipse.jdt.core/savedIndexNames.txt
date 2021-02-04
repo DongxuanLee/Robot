@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/Users/lidongxuan/java/WechatRobot/.metadata/.plugins/org.eclipse.jdt.core
+395487168.index
+1175494123.index
